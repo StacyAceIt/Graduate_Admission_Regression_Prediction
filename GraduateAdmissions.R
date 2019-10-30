@@ -1,4 +1,4 @@
-#setwd("/Users/yolanda7zhang/Documents/GitHub/GraduateAdmissions")
+
 grad<-read.csv("Admission_Predict_Ver1.1.csv",header = T)
 df1<-data.frame(grad)
 
